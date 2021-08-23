@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hjlweilong
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data analysis using python and teaching discrete math
+- 🌱 I’m currently learning data analysis and data quality using python and teaching discrete math
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
